@@ -17,8 +17,10 @@ This project was made to improve my learning skills.
   * This is a libary i used to get some components and styling from
     * https://next.material-ui.com/getting-started/installation/
 
-## Author's
-[Fadil Al]: https://github.com/FaaDiiL
+## Authors
+[Fadil Al](https://github.com/FaaDiiL)
+
+
 ### Available Scripts
 
 In the project directory, you can run:
